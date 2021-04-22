@@ -1,0 +1,20 @@
+.section-search input {
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+  border-radius: 5px !important;
+}
+
+#popular .card-title {
+  display: block !important;
+  text-align: right !important;
+  width: 100%;
+}
+.section-follow .fa-3x {
+  margin: 5px;
+  transition: all 50ms linear;
+}
+.section-follow .fa-3x:hover {
+  text-shadow: 0 0 5px white;
+  transform: scale(1.1);
+}
